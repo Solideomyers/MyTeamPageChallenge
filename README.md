@@ -20,7 +20,7 @@
 
 * Project Link: [https://github.com/Solideomyers/MyTeamPageChallenge/tree/main](https://github.com/Solideomyers/MyTeamPageChallenge/tree/main)
 * Figma Link: [https://www.figma.com/file/T1LTA10T2BYpZYgoxOXKyF/Second-Challenges---Team-Page?type=design&node-id=1-2&mode=design&t=JSyPBOWMklcGysmP-0](https://www.figma.com/file/T1LTA10T2BYpZYgoxOXKyF/Second-Challenges---Team-Page?type=design&node-id=1-2&mode=design&t=JSyPBOWMklcGysmP-0)
-* Deploy Link: [https://challenge-404-page-ynkq-arj9etycb-solideomyers.vercel.app/](https://challenge-404-page-ynkq-arj9etycb-solideomyers.vercel.app/)
+* Deploy Link: [https://my-team-page-challenge-1wp8pc0dz-solideomyers.vercel.app/](https://my-team-page-challenge-1wp8pc0dz-solideomyers.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
